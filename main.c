@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <time.h>
-#include "../include/headerA3.h"
+#include "../include/header.h"
 
 #define MAX_LENGTH 25
 
